@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        Halkaan ayeey ka socotoaa dhismaha shirkada fargeeto.com!
+        BREAKING CHANGES!
       </header>
     </div>
   );
